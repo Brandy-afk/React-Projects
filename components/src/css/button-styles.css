@@ -1,0 +1,36 @@
+/* .button {
+  transition: all 0.25s;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  transform-origin: center center;
+  will-change: transform;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border-style: none;
+  box-shadow: 0px 0px 3px 0.25px black;
+}
+
+.button:hover,
+.button:focus {
+  scale: 1.1;
+}
+
+.button:active {
+  scale: 0.75;
+}
+
+.success-button {
+  background-color: rgb(192, 255, 192);
+}
+
+.primary-button {
+  background-color: lightblue;
+}
+
+.red-button {
+  background-color: lightcoral;
+}
+
+.yellow-button {
+  background-color: lightyellow;
+} */
