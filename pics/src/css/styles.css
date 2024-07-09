@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.image-container {
+  columns: 6 200px;
+  column-gap: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.query-image {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.search-bar {
+  border: 1px solid lightgray;
+  display: flex;
+  align-items: center;
+  height: 50px;
+  justify-content: center;
+}
+
+.search-bar form {
+  display: flex;
+  gap: 20px;
+}

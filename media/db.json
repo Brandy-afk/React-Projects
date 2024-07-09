@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "5a9a",
+      "name": "Frank Kirlin"
+    },
+    {
+      "id": "b42e",
+      "name": "Ann Cartwright"
+    },
+    {
+      "id": "dff4",
+      "name": "Ronnie Torp"
+    },
+    {
+      "id": "23e3",
+      "name": "Eunice Balistreri"
+    },
+    {
+      "id": "fc31",
+      "name": "Dr. Salvador Kutch"
+    }
+  ],
+  "albums": [
+    {
+      "id": "926a",
+      "userId": "1",
+      "title": "Unbranded Frozen Shoes"
+    },
+    {
+      "id": "c421",
+      "userId": "1",
+      "title": "Tasty Rubber Sausages"
+    }
+  ],
+  "photos": []
+}
